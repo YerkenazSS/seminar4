@@ -1,6 +1,6 @@
 from mytree import MaxHeap
-f=open('words_31.txt','r')
+f=open('words_45.txt','r')
 lines=f.readlines()
 for l in lines:
     print(l)
-print(len(lines))
+    print(len(lines))
